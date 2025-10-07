@@ -1,22 +1,22 @@
-# 📊 Project: Complex API 
+# Workout and Recipe Finder
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+### Description
+Choose a muscle group and then get a workout for that muscle and after get shown a recipe to make.
 
-### How to submit your code for review:
+### Tech Used:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+- HTML
+- CSS
+- Javascript
+- APIs
 
-Example:
+### Lessons Learned:
+- Integrating apis into my project
+- Applying different parameters for the api
+- The use of fetch and catch
+
 ```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+Open for any feedback.
 ```
