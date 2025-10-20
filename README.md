@@ -3,6 +3,8 @@
 ### Description
 Choose a muscle group and then get a workout for that muscle and after get shown a recipe to make.
 
+![](img/first-complex-api-screenshot.png)
+
 ### Tech Used:
 
 - HTML

@@ -1,0 +1,59 @@
+/* I used chatgpt to help with some of the styling for my project */
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+  
+h1, h2, h3, p, input, button, select, label, img, a{
+    margin: 10px 0;
+}
+  
+input, select{
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+  
+button{
+    padding: 8px 16px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+button:hover{
+    background-color: #555;
+}
+  
+label{
+    font-weight: bold;
+}
+  
+img{
+    max-width: 80%;
+    border-radius: 6px;
+    display: block;
+}
+  
+a{
+    text-decoration: none;
+    color: #0066cc;
+}
+  
+a:hover{
+    text-decoration: underline;
+}
